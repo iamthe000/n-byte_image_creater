@@ -1,0 +1,2 @@
+# n-byte_image_creater
+数バイトのrbg形式の画像を生成するシェルスクリプトです
